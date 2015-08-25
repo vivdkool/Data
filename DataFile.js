@@ -1,4 +1,4 @@
-[{ 'ProductID':1,'Name': 'Omnis ut illum nisi.', 'ProductNumber': 2973311236, "InStock": true, "Quantity": 56 
+var Data=[{ 'ProductID':1,'Name': 'Omnis ut illum nisi.', 'ProductNumber': 2973311236, "InStock": true, "Quantity": 56 
 { 'ProductID':2,'Name': 'Quis quibusdam qui.', 'ProductNumber': 5907101619, "InStock": false, "Quantity": 0 }
 { 'ProductID':3,'Name': 'Sint laudantium et.', 'ProductNumber': 3057803521, "InStock": true, "Quantity": 26 }
 { 'ProductID':4,'Name': 'Tempore eos.', 'ProductNumber': 3576608248, "InStock": true, "Quantity": 8 },
